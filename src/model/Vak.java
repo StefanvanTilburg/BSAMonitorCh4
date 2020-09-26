@@ -3,9 +3,9 @@ package model;
 /**
  * @author Stefan van Tilburg
  * <p>
- * Opdracht
+ * Opdracht 3.3 BSA Monitor
  * <p>
- * Doel
+ * Doel     Class Vak. Opslag voor Vak gegevens (naam, punten en cesuur).
  */
 public class Vak {
     private String naam;
